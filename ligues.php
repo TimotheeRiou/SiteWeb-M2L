@@ -22,7 +22,7 @@
 									de ceux que vous réalisez dans la vie de tous les jours : s’asseoir, se
 									lever,
 									s’accroupir.</p>
-								<a href="#" class="btn btn-default" role="button">Button</a></p>
+								<a href="inscription.php" class="btn btn-default" role="button">S'incrire</a></p>
 							</div>
 						</div>
 					</div>
@@ -39,7 +39,7 @@
 									disciplines
 									de boxe : kick-boxing, full contact, boxe thaie, boxe française et boxe
 									anglaise.</p>
-								<a href="#" class="btn btn-default" role="button">Button</a></p>
+								<a href="inscription.php" class="btn btn-default" role="button">S'incrire</a></p>
 							</div>
 						</div>
 					</div>
@@ -54,7 +54,7 @@
 									Les joueurs doivent y être préparés mentalement et physiquement pour
 									apprendre
 									à y jouer sainement.</p>
-								<a href="#" class="btn btn-default" role="button">Button</a></p>
+								<a href="inscription.php" class="btn btn-default" role="button">S'incrire</a></p>
 							</div>
 						</div>
 					</div>
@@ -70,7 +70,7 @@
 									Les joueurs utilisent une raquette cordée verticalement et horizontalement
 									à une tension variant avec la puissance ou l'effet que l'on veut obtenir.
 								</p>
-								<a href="#" class="btn btn-default" role="button">Button</a></p>
+								<a href="inscription.php" class="btn btn-default" role="button">S'incrire</a></p>
 							</div>
 						</div>
 					</div>
@@ -87,7 +87,7 @@
 									Sur un terrain rectangulaire, les joueurs s’affrontent à l’aide d’un ballon.
 									Les dimensions du terrain sont de 9 mètres de large et 18 mètres de long.
 								</p>
-								<a href="#" class="btn btn-default" role="button">Button</a></p>
+								<a href="inscription.php" class="btn btn-default" role="button">S'incrire</a></p>
 							</div>
 						</div>
 					</div>
@@ -103,7 +103,7 @@
 									respect des règles.
 									C’est un sport qui se joue grâce à un ballon rond sur un terrain
 									rectangulaire dotés de deux buts.</p>
-								<a href="#" class="btn btn-default" role="button">Button</a></p>
+								<a href="inscription.php" class="btn btn-default" role="button">S'incrire</a></p>
 							</div>
 						</div>
 					</div>
@@ -118,8 +118,8 @@
 									sauts, lancers, épreuves combinées et marche. Il s’agit de l’art de dépasser
 									la performance
 									des adversaires en vitesse ou en endurance, en distance ou en hauteur. </p>
-								<a href="#" class="btn btn-default" role="button">Button</a></p>
-							</div>
+								<a href="inscription.php" class="btn btn-default" role="button">S'incrire</a></p>
+								</div>
 						</div>
 					</div>
 
@@ -134,7 +134,7 @@
 									pratiquants
 									sont appelés « skateurs » ou « riders », et le verbe skater signifie «
 									pratiquer le skateboard ».</p>
-								<a href="#" class="btn btn-default" role="button">Button</a></p>
+								<a href="inscription.php" class="btn btn-default" role="button">S'incrire</a></p>
 							</div>
 						</div>
 					</div>

@@ -3,12 +3,12 @@ session_start();
 if (isset($_POST["bouton"])) {
     $login = $_POST["login"];
     $mdp = $_POST["mdp"];
-    $id = mysqli_connect("127.0.0.1:8889", "root", "root", "M2L");
-    $req = "select * from user where login='$login' and mdp='$mdp'";
+    $id = mysqli_connect("127.0.0.1:8889", "root", "root", "m2l");
+    $req = "select * from connexion where login='$login' and mdp='$mdp'";
     $res = mysqli_query($id, $req);
-    if (mysqli_num_rows($res) != 0) {
+    if (mysqli_num_rows($res)>0) {
         $_SESSION["login"] = $login;
-        header("location:index.html");
+        header("location:index.php");
     } else {
         $erreur = "Erreur de login ou de mdp";
     }
@@ -22,11 +22,11 @@ if (isset($_POST["bouton"])) {
         <br>
         <h1>Formulaire de connexion</h1><br>
         <hr>
-        <form action="" method="post">
+        <form action="" method="POST">
             <input type="text" name="login" placeoholder="Entrez votre login :"><br><br>
             <input type="password" name="mdp" placeoholder="Entrez votre mdp :"><br><br>
             <?php if (isset($erreur)) echo "<h3>$erreur</h3>"; ?>
-            <input type="submit" name="bouton" value="Connexion">
+            <input type="submit" name="bouton" value="connexion">
         </form><br>
         <hr><br>
     </center>
